@@ -252,7 +252,7 @@ bool excute()
 }
 int main()
 {
-	freopen("1.data","r",stdin);
+//	freopen("1.data","r",stdin);
 	for (;scanf("%s",s1)!=EOF;)
 	{
 		if (s1[0] == '@')
