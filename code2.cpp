@@ -473,8 +473,8 @@ void WB()
 
 int main()
 {
-	freopen("1.data","r",stdin);
-	freopen("1.txt","w",stdout);
+//	freopen("1.data","r",stdin);
+//	freopen("1.txt","w",stdout);
 	for (;scanf("%s",s1)!=EOF;)
 	{
 		if (s1[0] == '@')
